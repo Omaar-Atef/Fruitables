@@ -5,7 +5,5 @@ Fruitables is a simple e-commerce platform built using ASP.NET MVC, Entity Frame
 ## Features
 - Separate functionalities for sellers and customers.
 - Secure authentication and identity management.
-- Easy integration with existing ASP.NET projects.
-- Utilizes Entity Framework for efficient data handling.
 - Implements Repository pattern for data access.
 - Utilizes Dependency Injection for decoupled and maintainable code.
